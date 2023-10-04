@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695259622 source:c:\users\pc\documents\tic tac toe\main.cpp
+	<iostream>
+	"functions.h"
+
+1695259586 c:\users\pc\documents\tic tac toe\functions.h
+	<iostream>
+
